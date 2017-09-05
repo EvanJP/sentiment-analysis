@@ -1,3 +1,10 @@
+This is a sentiment analysis experiment on Gaussian Naive-Bayes networks, just to give them a try and see how they work.
+
+Dataset information is given below.
+
+Was made by using Pandas to organize dataset and generate scores, in which common words were then filtered out. After that, numerical labels were placed on words and fed through a Gaussian Naive-Bayes network
+
+================================================================================
 This dataset was created for the Paper 'From Group to Individual Labels using Deep Features', Kotzias et. al,. KDD 2015
 Please cite the paper if you want to use it :)
 
